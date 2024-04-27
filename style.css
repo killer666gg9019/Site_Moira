@@ -1,6 +1,12 @@
 .header{
     background-color:rgb(64, 09, 72);
 }
+body {
+    margin: 0px;
+}
+.main {
+    width: auto;
+}
 .header__title{
     color: rgb(255, 255, 255);
     font-family: Bitter;
