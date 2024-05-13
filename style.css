@@ -30,6 +30,13 @@ body {
     text-align: center;
     margin-right: 30px;
 }
+.nav__link {
+    color: aqua;
+    text-decoration: none;
+}
+.nav__link:hover {
+    color: blue ;
+}
 .container__header{
     display: flex;
     justify-content: space-evenly;
@@ -231,4 +238,7 @@ body {
 }
 .footer__img:hover {
     border-radius: 30px;
+}
+.video__video_page {
+    margin-top: 60px;
 }
