@@ -240,5 +240,8 @@ body {
     border-radius: 30px;
 }
 .video__video_page {
-    margin-top: 60px;
+    margin-top: 30px;
+}
+.video__name {
+    margin-top: 45px;
 }
